@@ -1,1 +1,10 @@
-Space Invaders Clone in Python
+<h1>Space Invaders Clone written in Python</h1>
+<br></br>
+<p>
+Code was adapted and written by myself and Kevin Olango for a introductory programming course which focused on Python. 
+All sprites were open-source. This clone runs the same way the original Space Invaders Arcade game is played, except for minor 
+quirks such as no more infinite shooting (holding down the space bar). There is a life count, as well as falling 1-up powerups that
+give the hero an extra life. There is only one level implemented as this was a simple project and not meant to be a full blown game.
+</p>
+
+
